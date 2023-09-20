@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Users/AndrewDevos/Documents/GOOGLE DRIVE andrew.cottadevos/furg 2023/Linguagens de Programação/.C/Trabalho de Linguagem C - Codigos desenvolvido por AndrewDevos 72409 e HenriqueStrieder 157642",
+      "program": "d:/Users/AndrewDevos/Documents/GOOGLE DRIVE andrew.cottadevos/furg 2023/Linguagens de Programação/.C/Trabalho de Linguagem C - Codigos desenvolvido por AndrewDevos 72409 e HenriqueStrieder 157642/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
